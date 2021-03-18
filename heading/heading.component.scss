@@ -1,0 +1,16 @@
+.header {
+    background-color: #F19317;
+    padding: 30px;
+    text-align: center;
+    margin: 0 auto;
+    span {
+      color: white;
+      font-size: 20px;
+    }
+    &-icon {
+      position: absolute;
+      left: 10px;
+      color: wheat;
+      font-size: 18px;
+    }
+  }
